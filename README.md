@@ -16,24 +16,24 @@ To set up the project locally, follow these steps:
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/visual-family-tree-builder.git
+    git clone https://github.com/vivek563/visual-family-tree-builder.git
     cd visual-family-tree-builder
     ```
 
 2.  Install dependencies:
 
-        ```bash
-                npm install
-        ```
+```bash
+npm install
+```
 
 3.  Run the development server:
 
-        ```bash
-        npm run dev
-        ```
+```bash
+npm run dev
+```
 
 4.  Open the application in your browser:
 
 ```bash
-        Navigate to http://localhost:3000.
+Navigate to http://localhost:3000.
 ```
