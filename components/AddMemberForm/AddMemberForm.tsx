@@ -11,7 +11,7 @@ const AddMemberForm = ({ onAdd }: { onAdd: (node: Node) => void }) => {
 	const handleSubmit = (e: React.FormEvent) => {
 		e.preventDefault();
 		if (!name.trim()) {
-			toast.error("Please Enter Family Member Name");
+			toast.error("Please Enter Name");
 			return;
 		}
 		const newNode: Node = {
